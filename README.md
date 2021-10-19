@@ -34,7 +34,7 @@ GIFs:
     <td align="center">
       <img src="https://github.com/1matheusflorencio/Alura-Barbearia/blob/main/README%20arquivos/Barbearia%20Alura%20-%20Video_1_1_1.gif?raw=true" alt="GIF da Home"/><br>
         <sub>
-          <a href="https://github.com/1matheusflorencio/Alura-Barbearia/blob/main/README%20arquivos/Barbearia%20Alura%20-%20Video_1_1_1.gif?raw=true">Home</a>
+         Home
         </sub>
     </td>
   </tr>
@@ -42,7 +42,7 @@ GIFs:
     <td align="center">
       <img src="https://github.com/1matheusflorencio/Alura-Barbearia/blob/main/README%20arquivos/Barbearia%20Alura%20-%20Video_1_2_1.gif?raw=true" alt="GIF do Produtos"/><br>
         <sub>
-          <a href="https://github.com/1matheusflorencio/Alura-Barbearia/blob/main/README%20arquivos/Barbearia%20Alura%20-%20Video_1_2_1.gif?raw=true">Produtos</a>
+          Produtos
         </sub>
     </td>
   </tr>
@@ -50,7 +50,7 @@ GIFs:
     <td align="center">
       <img src="https://github.com/1matheusflorencio/Alura-Barbearia/blob/main/README%20arquivos/Barbearia%20Alura%20-%20Video_1_3_1.gif?raw=true" alt="GIF do Contato"/><br>
         <sub>
-          <a href="https://github.com/1matheusflorencio/Alura-Barbearia/blob/main/README%20arquivos/Barbearia%20Alura%20-%20Video_1_3_1.gif?raw=true">Contato</a>
+          Contato
         </sub>
     </td>
   </tr>
